@@ -15,3 +15,9 @@ function check(){
         alert('Your are wrong');
     }
 }
+
+//False Values
+
+Boolean();
+
+undefined, null, NaN, 0, "", false;
